@@ -19,8 +19,10 @@ Researchers wishing to use CMACD can apply by emailing: annezjy94@163.com.
 To demonstrate the features and application value of this dataset, and to facilitate basic testing and feedback, we have made a small sample of CMACD publicly available. 
 The small sample dataset demo.csv is now accessible at: https://github.com/yeaso/Chinese-Affective-Computing-Dataset
 
-Welcome to use our data CMACD, please cite our paper：
-【】
+Welcome to use our data CMACD, and please cite our paper：
+【Jingyi Zhou, Senlin Luo and Haofan Chen. "A Chinese Multi-label Affective Computing Dataset Based on Social Media Network Users." arXiv preprint 	arXiv:2411.08347 (2024).
+https://doi.org/10.48550/arXiv.2411.08347
+】
 
 
 
