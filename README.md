@@ -1,4 +1,5 @@
 A Chinese Multi-label Affective Computing Dataset Based on Social Media Network Users
+This paper at https://arxiv.org/pdf/2411.08347
 
 
 ![Fig-1](https://github.com/user-attachments/assets/125dc94e-4ee0-4867-aaed-8f06e48e4617)
