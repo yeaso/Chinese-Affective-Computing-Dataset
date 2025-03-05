@@ -1,3 +1,4 @@
+集MBTI（人格类型）+情绪+微情绪+情绪强度的大型数据集。
 The first personality emotion computing dataset: a large-scale dataset combining MBTI (personality types), emotions, micro-emotions, and emotion intensity.
 A Chinese Multi-label Affective Computing Dataset Based on Social Media Network Users.
 This paper at https://arxiv.org/pdf/2411.08347
