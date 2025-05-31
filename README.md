@@ -35,13 +35,9 @@ Using the EQN method, we compiled a multi-label Chinese affective computing data
 each annotated with intensity levels. Validation results across multiple NLP classification models demonstrate the dataset’s strong utility.
 This dataset is designed to advance machine recognition of complex human emotions and provide data support for research in psychology, education, marketing, finance, and politics.
 
-Although this dataset has undergone privacy protection measures, it involves research on human personality and emotions. 
-To ensure user safety, CMACD is made available free of charge only to researchers with a legitimate need. 
-Researchers wishing to use CMACD can apply by emailing: annezjy94@163.com.
-To demonstrate the features and application value of this dataset, and to facilitate basic testing and feedback, we have made a small sample of CMACD publicly available. 
-The small sample dataset demo.csv is now accessible at: https://github.com/yeaso/Chinese-Affective-Computing-Dataset
 
-Welcome to use our data CMACD, and please cite our paper：
+
+Welcome to use our data CMACD or CPME, and please cite our paper：
 【Jingyi Zhou, Senlin Luo and Haofan Chen. "A Chinese Multi-label Affective Computing Dataset Based on Social Media Network Users." arXiv preprint 	arXiv:2411.08347 (2024).
 https://doi.org/10.48550/arXiv.2411.08347
 】
