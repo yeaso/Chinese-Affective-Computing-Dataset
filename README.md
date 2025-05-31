@@ -24,6 +24,11 @@ This paper at https://arxiv.org/pdf/2411.08347
 
 A Chinese Multi-label Affective Computing Dataset Based on Social Media Network Users
 ![figure1](https://github.com/user-attachments/assets/8c747260-635e-4f8c-aad1-78b49bc5e5d7)
+CMACD
+
+![GitHub Logo](https://github.com/yeaso/Chinese-Affective-Computing-Dataset/blob/main/Fig-2.jpg)
+CPME
+
 
 Emotion and personality are central elements in understanding human psychological states. 
 Existing affective computing datasets often annotate emotion and personality traits separately, lacking fine-grained labeling of micro-emotions
